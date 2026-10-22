@@ -8,6 +8,6 @@ self.__uv$config = {
     sw: '/uv/uv.sw.js',
     
     // 👇 請把這裡換成有效的公開 Bare 伺服器網址
-    bare: 'https://tomphttp.v6.rocks/', 
+    bare: 'https://bare1.psyduck418.workers.dev/', 
     // 或者試試看：'https://bare.benroaz.com/'
 };
