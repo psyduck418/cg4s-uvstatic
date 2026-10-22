@@ -7,6 +7,6 @@ self.__uv$config = {
     config: '/uv/uv.config.js',
     sw: '/uv/uv.sw.js',
     
-    // 暫時換成這個公開的穩定 Bare 伺服器
-    bare: 'https://bare.benroaz.com/',
+    // 試試看這個目前有效的穩定公開 Bare 節點
+    bare: 'https://bare.onrender.com/',
 };
