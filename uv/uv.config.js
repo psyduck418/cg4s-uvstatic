@@ -7,7 +7,6 @@ self.__uv$config = {
     config: '/uv/uv.config.js',
     sw: '/uv/uv.sw.js',
     
-    // 👇 請把這裡換成有效的公開 Bare 伺服器網址
-    bare: 'https://bare1.psyduck418.workers.dev/', 
-    // 或者試試看：'https://bare.benroaz.com/'
+    // 直接換成這個穩定公開的 Bare 伺服器網址
+    bare: 'https://bare.benroaz.com/',
 };
