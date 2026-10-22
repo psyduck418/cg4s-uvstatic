@@ -7,5 +7,6 @@ self.__uv$config = {
     config: '/uv/uv.config.js',
     sw: '/uv/uv.sw.js',
     
-    bare: 'https://bare1.psyduck418.workers.dev/',
+    // 暫時換成這個公開的穩定 Bare 伺服器
+    bare: 'https://bare.benroaz.com/',
 };
